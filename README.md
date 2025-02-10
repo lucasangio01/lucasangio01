@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/luca-sangiovanni-952311226/">
@@ -6,7 +6,13 @@
   </a>
 </div>
 
-- I am a second-year master student in Data Science for Economics at the University of Milan
-- Everything that revolves around data is what makes me curious
-- I really enjoy working on ML tasks, and I am also interested in the world of Deep Learning
-- During my bachelor, I did an exchange semester in Germany
+---
+
+### About me:
+- I am a second-year master student in Data Science for Economics at the University of Milan.
+- Everything that revolves around data makes me curious.
+- I really enjoy working on ML tasks, and I'm also starting to learn more about Deep Learning concepts.
+
+---
+
+### Languages and tools:
