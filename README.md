@@ -1,9 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Hey!%&fontSize=60)
+<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/3cd1a486-e0e8-4f95-9b1a-c8dd6fc1cbb2" />![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Hey!%&fontSize=60)
 
 ### About me:
-- 👨‍🎓 I am a second-year master student in Data Science for Economics at the University of Milan.
-- 📊 I am interested in anything that revolves around data science.
-- 👨‍💻 I really enjoy working on Machine Learning tasks, and I'm also starting to learn more about Deep Learning concepts.
+- 👨‍🎓 Second-year master student in Data Science for Economics at the University of Milan.
+- 🚀 Currently doing an internship as AI Engineer at EY.
+- 📊 Interested in anything that revolves around data science.
+- 👨‍💻 Really enjoying working on Machine Learning and Deep Learning tasks.
 
 ---
 
