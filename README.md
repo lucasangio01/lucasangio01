@@ -1,4 +1,4 @@
-<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/3cd1a486-e0e8-4f95-9b1a-c8dd6fc1cbb2" />![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Hey!%&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Hey!%&fontSize=60)
 
 ### About me:
 - 👨‍🎓 Second-year master student in Data Science for Economics at the University of Milan.
