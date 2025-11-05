@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Hey!%&fontSize=60)
 
 ### About me:
-- 👨‍🎓 Second-year master student in Data Science for Economics at the University of Milan.
-- 🚀 Currently doing an internship as AI Engineer at EY.
-- 📊 Interested in anything that revolves around data science.
-- 👨‍💻 Really enjoying working on Machine Learning and Deep Learning tasks.
+- 👨‍🎓 Master student in Data Science for Economics @ University of Milan.
+- 👨‍💻 Currently doing an internship as AI Engineer @ EY.
+- 🚀 Strongly passionate and curious about anything that revolves around Machine Learning and Deep Learning.
 
 ---
 
